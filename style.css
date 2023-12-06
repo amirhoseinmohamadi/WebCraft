@@ -264,3 +264,44 @@ margin-bottom: 50px;
  .infoBox span {
   margin-bottom: 10px;
  }
+
+
+
+
+
+ 
+.footer a {
+  
+  float: center;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 10px;
+  border-radius: 10px;
+
+}
+
+.footer a:hover {
+  background-color: #ddd;
+  color: black;
+  border-radius: 15px 0px 15px 0px;
+}
+
+
+.footer a.active {
+  background-color: #FF8C00;
+  color: white;
+  
+}
+
+
+.footer {
+  /* background-color: #333333cc; */
+  overflow: hidden;
+  padding: 1%;
+  border-radius: 30px;
+
+  margin-bottom: 30px;
+  
+}
